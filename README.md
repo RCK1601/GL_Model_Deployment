@@ -36,10 +36,10 @@ To access the model via Flask API:
 2. Access the API endpoint with appropriate data and receive predictions.
 
 ## Getting Started
-1. Clone this repository: `git clone <repository-url>`
+1. Clone this repository: ``
 2. Install necessary dependencies: `pip install -r requirements.txt`
-3. Train the model using `train_model.py`.
-4. Set up the Flask server using `load_model_flask.py`.
+3. Train the model using `model.py`.
+4. Set up the Flask server using `app.py`.
 5. Test functionality locally.
 6. Push changes to GitHub repository.
 
